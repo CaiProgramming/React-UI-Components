@@ -1,0 +1,11 @@
+.Footer{
+  background-color: #fcfcfc;
+  display: flex;
+  width: 500px;
+  justify-content: space-around;
+
+}
+.Thumbnail{
+  margin: 10px;
+  width:18px;
+}
