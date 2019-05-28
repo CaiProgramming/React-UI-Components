@@ -5,8 +5,8 @@
   background-color: #e8e8e8;
   border: 1px #d1d1d1 solid;
   margin: 0px;
-  min-width: 25px;
-  height: 25px;
+  min-width: 50px;
+  height: 50px;
   flex-grow: 1;
   cursor: pointer;
   user-select: none;
@@ -19,12 +19,12 @@
   flex-wrap: wrap;
 }
 .Row{
-  width: 81px;
+  width: 162px;
 }
 .op{
-  background-color: red;
+  background-color: #820000;
   color: white;
 }
 .Calc{
-  width: 110px;
+  width: 220px;
 }
