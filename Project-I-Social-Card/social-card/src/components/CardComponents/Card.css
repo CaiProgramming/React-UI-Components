@@ -1,1 +1,35 @@
 /* All styles for your Card Components live here */
+section{
+  margin: 0px;
+}
+.Card{
+  background-color: #fcfcfc;
+  display: flex;
+  flex-flow: column;
+  max-width: 500px;
+  align-items: flex-end;
+
+
+}
+.Content{
+  background-color: #ededed;
+  display: flex;
+  width: 450px;
+  border: 1px #dbdbdb solid;
+  border-bottom: none;
+
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.Text{
+  border-bottom: 1px #dbdbdb solid;
+  border-top: none;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+.banner{
+  width:100%;
+  border-radius: 10px;
+}

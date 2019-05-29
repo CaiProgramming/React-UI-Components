@@ -1,0 +1,30 @@
+.Button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #e8e8e8;
+  border: 1px #d1d1d1 solid;
+  margin: 0px;
+  min-width: 50px;
+  height: 50px;
+  flex-grow: 1;
+  cursor: pointer;
+  user-select: none;
+}
+.Button:Active{
+  background-color:white;
+}
+.Buttons{
+  display: flex;
+  flex-wrap: wrap;
+}
+.Row{
+  width: 160px;
+}
+.op{
+  background-color: #820000;
+  color: white;
+}
+.Calc{
+  width: 220px;
+}
